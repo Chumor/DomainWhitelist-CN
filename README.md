@@ -1,22 +1,31 @@
 # DomainWhitelist-CN
-常用CN网站白名单，纯列表，用于 NekoBox，控制绕过代理的网站。
+
+常用中国大陆网站白名单 —— 适用于 NekoBox，用于控制哪些网站可绕过代理。仅为域名列表。
 
 ## 版本说明
-* DomainWhitelist-CN_
-* Core只含有热门网站
-* all含有白名单全部网站
-* 无后缀为我的特供版
 
+- **DomainWhitelist-CN_**
+- **Core**：只包含热门常用网站
+- **all**：包含全部可用白名单网站
+- **无后缀**：个人特供版
 
 ## 使用方法
-* NekoBox-NekoBox-工具-备份-从文件中导入（该功能为覆盖导入请注意备份你的路由）
 
-**其他方法自行摸索**
+1. 打开 NekoBox 应用
+2. 依次进入「工具」→「备份」→「从文件中导入」
+3. 选择下载好的白名单文件进行导入  
+   ⚠️ 注意：此操作为覆盖导入，建议提前备份你的原有路由设置
 
-## 路由语法
-https://matsuridayo.github.io/nb4a-r##
+> 其他导入或使用方式可根据实际情况自行探索
 
+## 路由语法说明
+
+详细路由语法参考：  
+https://matsuridayo.github.io/nb4a-route/
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Chumor/DomainWhitelist-CN&Date)](https://www.star-history.com/#Chumor/DomainWhitelist-CN&Date)
+
+---
+如有建议、问题或补充，欢迎 Issue 或 PR！
